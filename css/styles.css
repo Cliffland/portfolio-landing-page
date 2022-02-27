@@ -2,6 +2,7 @@
     padding: 0 16px;
 }
 body{
+    border: 0px;
     margin: 0;
 }
 html{
@@ -10,5 +11,12 @@ html{
 img{
     border-radius: 8px;
     transform: scaleX(-1);
+    width: 250px;
+    height: 250px;
+    object-fit: contain;
 
+}
+.p1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
 }
