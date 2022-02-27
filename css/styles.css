@@ -1,6 +1,14 @@
-#st-box{
-    float: left;
+.container{
+    padding: 0 16px;
 }
-#nd-box{
-    float: right;
+body{
+    margin: 0;
+}
+html{
+    box-sizing: border-box;
+}
+img{
+    border-radius: 8px;
+    transform: scaleX(-1);
+
 }
