@@ -19,9 +19,19 @@ img{
 .p1{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-style: italic;
+    text-align: center;
 }
 .p2{
     font-weight: bold;
     font-style: oblique;
-    
+    font-size: x-large;
+
+}
+.p3{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bolder;
+    font-style: italic;
+}
+.contact{
+    text-align: center;
 }
