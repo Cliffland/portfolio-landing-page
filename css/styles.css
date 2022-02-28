@@ -1,5 +1,6 @@
 .container{
     padding: 0 16px;
+    color: whitesmoke;
 }
 body{
     border: 0px;
@@ -38,4 +39,16 @@ img{
 }
 body{
     background-color: black;
+}
+.why{
+    color: aliceblue;
+}
+.h5{
+    color: yellow;
+}
+.material-icons{
+    color: white;
+}
+.ic{
+    color: whitesmoke;
 }
