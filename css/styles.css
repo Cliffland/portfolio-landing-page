@@ -5,6 +5,7 @@
 body{
     border: 0px;
     margin: 0;
+    background-color: black;
 }
 html{
     box-sizing: border-box;
@@ -39,9 +40,6 @@ img{
 .contact{
     text-align: center;
 }
-body{
-    background-color: black;
-}
 .why{
     color: aliceblue;
 }
@@ -59,4 +57,7 @@ body{
 }
 .hello{
     font-size: 64px;
+}
+.row{
+    margin: 20px;
 }
