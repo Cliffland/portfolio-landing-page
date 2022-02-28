@@ -21,7 +21,7 @@ img{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-style: italic;
     text-align: center;
-    color: orange;
+    color: yellowgreen;
 }
 .p2{
     font-weight: bold;
@@ -44,6 +44,9 @@ body{
     color: aliceblue;
 }
 .h5{
+    color: yellow;
+}
+.h3{
     color: yellow;
 }
 .material-icons{
