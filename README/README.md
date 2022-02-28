@@ -1,5 +1,5 @@
 # Portfolio
-#### Simple webpage, 28/02/2022
+#### Simple portfolio, 28/02/2022
 ## Description
 The purpose of the web page is to show case my skill set and Explain why Programming.
 ## Setup/Installation Requirements
